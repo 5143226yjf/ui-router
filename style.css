@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+.left{
+    width:200px;
+    height:250px;
+    margin:20px;
+    border-right: 1px solid #000;
+    float:left;
+}
+.left li{
+    margin:30px;
+}
+.right{
+    width:300px;
+    height:250px;
+    float:left;
+    border:1px solid thistle;
+    margin:20px;
+}
